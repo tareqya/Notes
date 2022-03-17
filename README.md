@@ -10,13 +10,16 @@ do the following steps:
 <ul>
   <li>  git clone https://github.com/tareqya/Notes.git </li>
   <li>cd into project </li>
-    <li>run: npm install </li>
-    <li> run: expo start</li>
-  </ul>
+  <li>run: npm install </li>
+  <li> run: expo start</li>
+</ul>
 
-<h2> Android Device Only </h2>
-<p>You can find apk file of the app under the root dir </p>
-<p>file name : Notes.apk</p>
+<h2> Build app </h2>
+<p> Go to the project dir and run: </p>
+<ul>
+  <li> expo build:android</li>
+  <li> expo build:ios </li>
+</ul>
 
 <h2> App Screens </h2>
 
