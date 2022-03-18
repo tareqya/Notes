@@ -17,10 +17,7 @@
     "ios": {
       "bundleIdentifier": "com.tareqyassin.notes",
       "buildNumber": "1.0.0",
-      "supportsTablet": true,
-      "config": {
-        "googleMapsApiKey": "AIzaSyD5euYP9zoNIgGS01_PulF80jo7cz2VO50"
-      }
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {

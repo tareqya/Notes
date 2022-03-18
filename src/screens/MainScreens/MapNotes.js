@@ -56,7 +56,7 @@ class MapNotes extends Component {
           titleWrapperStyle={{ padding: 10 }}
           titleStyle={{ fontWeight: "bold" }}
         />
-        <MapView style={styles.map} provider={PROVIDER_GOOGLE}>
+        <MapView style={styles.map}>
           {notes.map((note, index) => (
             <View key={index.toString()}>
               <Marker
